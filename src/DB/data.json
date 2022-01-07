@@ -1,0 +1,28 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "fullName": "Jawwad Khan",
+      "age": "21",
+      "phone": "+91-8600396677"
+    },
+    {
+      "id": 2,
+      "fullName": "FIJK",
+      "age": "20",
+      "phone": "+91-9284847742"
+    },
+    {
+      "id": 3,
+      "fullName": "Jawwad Khan",
+      "age": "22",
+      "phone": "+91-8600396677"
+    },
+    {
+      "fullName": "JK",
+      "age": "22",
+      "phone": "1111",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    margin-top: 3.5rem;
+    text-decoration: underline;
+    font-size: 2rem;
+}
+
+.rowClass{
+    padding: 15px;
+}
+.rowClass:nth-child(even){
+    background-color: rgb(243, 243, 243);
+}
+
+/**/
+.formClass{
+    border: 2px solid black;
+    border-radius: 20px;
+    margin:10px auto;
+    margin-top: 30px;
+    width:50rem;
+    padding:4rem;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#filled-basic{
+    width: 35rem;
+}
+
+#form-btn{
+    width: 20rem;
+    padding:.8rem;
+    margin-top: 30px;
+    margin-left: 8em;
+    font-size: 18px;
+    font-weight: bold;
+}
